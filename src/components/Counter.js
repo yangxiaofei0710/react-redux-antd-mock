@@ -52,7 +52,7 @@ class Counter extends Component {
             title: "邮箱",
             dataIndex: "email",
         }];
-        const dataSource = this.state.userList;
+        const {userList} = this.state;
         return (
 
             <div>
@@ -81,7 +81,7 @@ class Counter extends Component {
                 </p>
 
                 <div>
-                    <Table columns={columns}  dataSource={dataSource}></Table>
+                    <Table columns={columns}  dataSource={userList}></Table>
                 </div>
 
             </div>
