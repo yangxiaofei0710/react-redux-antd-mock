@@ -76,6 +76,10 @@ class Counter extends Component {
                     </button>
                 </p>
 
+                <p style={{textAlign: "center",padding: "30px"}}>
+                    *****************************************************************************************
+                </p>
+
                 <div>
                     <Table columns={columns}  dataSource={dataSource}></Table>
                 </div>
