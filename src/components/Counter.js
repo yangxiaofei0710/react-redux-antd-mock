@@ -51,6 +51,12 @@ class Counter extends Component {
         },{
             title: "邮箱",
             dataIndex: "email",
+        },{
+            title: "日期",
+            dataIndex: "date"
+        },{
+            title: "身份证号",
+            dataIndex: "id"
         }];
         const {userList} = this.state;
         return (
