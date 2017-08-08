@@ -18,11 +18,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Counter.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Counter.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Counter.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1272">
-              <caret line="78" column="61" lean-forward="false" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+            <state relative-caret-position="218">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -52,11 +52,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mock.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mock.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mock/mock.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="34">
+              <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -113,11 +113,11 @@
       <list>
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/reducers/index.js" />
-        <option value="$PROJECT_DIR$/src/mock/mock.js" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/components/Counter.js" />
+        <option value="$PROJECT_DIR$/src/mock/mock.js" />
       </list>
     </option>
   </component>
@@ -341,12 +341,12 @@
       <workItem from="1502179239387" duration="119000" />
       <workItem from="1502179390793" duration="310000" />
       <workItem from="1502179704687" duration="13000" />
-      <workItem from="1502179725953" duration="839000" />
+      <workItem from="1502179725953" duration="952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6719000" />
+    <option name="totallyTimeSpent" value="6832000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -636,14 +636,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/mock/mock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -664,11 +656,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Counter.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1272">
-          <caret line="78" column="61" lean-forward="false" selection-start-line="78" selection-start-column="61" selection-end-line="78" selection-end-column="61" />
+        <state relative-caret-position="218">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mock/mock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
